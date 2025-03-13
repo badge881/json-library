@@ -1,2 +1,4 @@
 # json-library
-use a json library for modern C++
+a json library for modern C++
+
+for g++ on msys2
